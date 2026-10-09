@@ -14,14 +14,14 @@ of the world around me.
 
 ## What I'm Working On
 
-### Software Raytracer & Rasterizer
+### Software Pathtracer & Rasterizer
 
 <table>
   <tr>
     <td valign="middle" width="55%">
       <p>
         Following the book <a href="https://gabrielgambetta.com/computer-graphics-from-scratch/">Computer Graphics from Scratch</a>,
-        I'm building a raytracer and rasterizer from scratch to learn the
+        I'm building a pathtracer and rasterizer from scratch to learn the
         fundamentals of computer graphics. Implementing everything in software,
         from ray intersection and shading to the rasterization pipeline, allows
         me to gain a much deeper understanding of what actually happens between
@@ -29,13 +29,13 @@ of the world around me.
       </p>
     </td>
     <td valign="middle" width="45%">
-      <img src="resources/raytracer.png" alt="Raytracer Render" width="100%">
+      <img src="resources/pathtracer.png" alt="Pathtracer Render" width="100%">
     </td>
   </tr>
 </table>
 
-Find out more in the
-[repository](https://github.com/Piwimau/computer-graphics-from-scratch).
+If you'd like to find out more, check out [the
+repository](https://github.com/Piwimau/computer-graphics-from-scratch).
 
 ## What's Next
 
